@@ -1,0 +1,133 @@
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.cache
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csproj.CopyComplete
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\sreag\source\repos\ClientDemo\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.cache
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.csproj.CopyComplete
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.Form3.resources
+C:\Users\Пятница\Downloads\ClientDemo-20190416T070222Z-001\ClientDemo\ClientDemo\obj\Debug\ClientDemo.Form2.resources
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.Form2.resources
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.Form3.resources
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.cache
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.csproj.CopyComplete
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\sreag\OneDrive\Рабочий стол\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Form3.resources
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.cache
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.CopyComplete
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Form2.resources
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Form4.resources
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\zxing.dll
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\zxing.presentation.dll
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\zxing.pdb
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\zxing.xml
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\zxing.presentation.pdb
+C:\Users\sreag\Desktop\Klient\ClientDemo\bin\Debug\zxing.presentation.xml
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Form5.resources
+C:\Users\sreag\Desktop\Klient\ClientDemo\obj\Debug\ClientDemo.Form6.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\zxing.dll
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\zxing.presentation.dll
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\zxing.pdb
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\zxing.xml
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\zxing.presentation.pdb
+C:\Users\sreag\source\repos\Klient\ClientDemo\bin\Debug\zxing.presentation.xml
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Form2.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Form3.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Form4.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Form5.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Form6.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.cache
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.CopyComplete
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.pdb
+C:\Users\sreag\source\repos\Klient\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\ClientDemo.exe.config
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\ClientDemo.exe
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\ClientDemo.pdb
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\zxing.dll
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\zxing.presentation.dll
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\zxing.pdb
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\zxing.xml
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\zxing.presentation.pdb
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\bin\Debug\zxing.presentation.xml
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.csprojAssemblyReference.cache
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Form1.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Form2.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Form3.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Form4.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Form5.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Form6.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.Properties.Resources.resources
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.GenerateResource.cache
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.CoreCompileInputs.cache
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.csproj.CopyComplete
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.exe
+C:\Users\Пятница\Desktop\Новая папка (2)\Klient (1)\Klient\ClientDemo\obj\Debug\ClientDemo.pdb
